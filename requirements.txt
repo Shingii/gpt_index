@@ -18,3 +18,4 @@ mypy==0.991
 pre-commit==3.2.0
 pylint==2.15.10
 ruff==0.0.259
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
